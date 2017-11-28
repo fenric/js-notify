@@ -8,6 +8,9 @@
 		"fenric",
 		"notify"
 	],
+	"dependencies" : {
+		"fenric-js-templating": "*"
+	},
 	"authors": [
 		"Anatoly Fenric <anatoly.fenric@gmail.com>"
 	],
