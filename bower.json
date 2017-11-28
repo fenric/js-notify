@@ -1,0 +1,18 @@
+{
+	"license": "MIT",
+	"name": "fenric-js-notify",
+	"description": "Notify.",
+	"homepage": "https://github.com/fenric/js-notify",
+	"main": "src/notify.js",
+	"keywords": [
+		"fenric",
+		"notify"
+	],
+	"authors": [
+		"Anatoly Fenric <anatoly.fenric@gmail.com>"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/fenric/js-notify.git"
+	}
+}
